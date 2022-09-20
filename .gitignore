@@ -32,7 +32,7 @@ gradle/
 build/
 bin/
 out/
-.idea
+.idea/
 logs/
 target/
 .classpath
